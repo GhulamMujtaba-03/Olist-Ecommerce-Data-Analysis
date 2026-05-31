@@ -1,32 +1,54 @@
 # Olist-Ecommerce-Data-Analysis
 
-## Project Overview 📌
+## Project Overview 📌 
+- This project combines Python (Pandas) for data cleaning and preprocessing with Power BI for interactive dashboard development using the Olist Brazilian E-Commerce dataset.
+- The objective was to transform raw e-commerce data into a clean, analysis-ready dataset and build an interactive business intelligence solution that provides insights into sales performance, customer behavior, product performance, shipping costs, and payment tren
 
-- This project focuses on cleaning and preparing the Olist Brazilian E-Commerce dataset using Python and Pandas.
-- The raw dataset contained missing values, duplicate records, inconsistent data types, and data quality issues that needed to be resolved before performing analysis and visualization.
+## Project Objectives 🎯 
+- Clean and preprocess raw e-commerce data using Pandas
+- Improve data quality by handling missing values and duplicates
+- Standardize data types and validate records
+- Perform data transformation for reporting purposes
+- Build an interactive Power BI dashboard
+- Generate actionable business insights from sales and customer data
 
-- The objective of this project was to transform raw data into a clean and reliable dataset suitable for business analysis and dashboard creation
-
-# Objectives 🎯
-- Improve overall data quality
-- Handle missing values
-- Remove duplicate records
-- Correct data types
-- Prepare data for analytical reporting
-- Create a structured dataset for Power BI visualization
-
-## Tools Used 🛠️ 
+## Tools & Technologies 🛠️ 
+- Data Cleaning
 - Python
 - Pandas
 - Jupyter Notebook
+## Data Visualization
+- Power BI
+- DAX
+- Power Query
 
-## Dataset 📂
+## Dataset 📂 
 ### Dataset: Olist Brazilian E-Commerce Dataset
-### The dataset contains information about:
+#### The dataset contains information related to:
 - Customers
 - Orders
 - Products
 - Sellers
 - Payments
 - Reviews
+- Shipping
 - Geolocation
+
+## Data Cleaning & Preprocessing (Pandas)
+### The raw dataset underwent extensive cleaning before being imported into Power BI.
+- Data Exploration
+- Dataset inspection
+- Column validation
+- Missing value analysis
+- Duplicate detection
+- Data type review
+- Data Cleaning Tasks
+- Removed duplicate records
+- Handled missing values
+- Corrected inconsistent data types
+- Converted date columns into datetime format
+- Validated categorical values
+- Improved overall data quality
+
+## Power BI Dashboard 📊
+### The dashboard consists of  interactive pages designed to analyze different aspects of the business.
