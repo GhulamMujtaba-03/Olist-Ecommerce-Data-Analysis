@@ -52,10 +52,9 @@
 
 ## Power BI Dashboard 📊
 ### The dashboard consists of  interactive pages designed to analyze different aspects of the business.
-# E-Commerce Dashboard page 1
-## Sales Dashboard
-![Sales Dashboard](https://github.com/GhulamMujtaba-03/Pandas-Power-BI-E-Commerce-Data-Analysis-Project/blob/main/image_01.png?raw=true)
+
 #### Page 1: Sales & Customer Overview 📈 
+![Sales_Analysis](https://github.com/GhulamMujtaba-03/Olist-Ecommerce-Data-Analysis/blob/main/Sales_Analysis.png?raw=true)
 ###### KPIs
 - Total Customers
 - Total Sales
@@ -83,9 +82,7 @@
 - Top-performing cities analysis
 
 ## Page 2: Product & Seller Analysis 📦 
-# E-Commerce Dashboard
-## Sales Dashboard
-![Sales Dashboard](https://github.com/GhulamMujtaba-03/Pandas-Power-BI-E-Commerce-Data-Analysis-Project/blob/main/image_01.png?raw=true)
+![Product_Analysis](https://github.com/GhulamMujtaba-03/Olist-Ecommerce-Data-Analysis/blob/main/Prodcut_Analysis.png?raw=true)
 ### KPIs
 - Total Products
 - Total Product Categories
@@ -113,9 +110,7 @@
 
 
 ## Page 3: Reviews, Payments & Shipping Analysis 🚚 
-# E-Commerce Dashboard
-## Sales Dashboard
-![Sales Dashboard](https://github.com/GhulamMujtaba-03/Pandas-Power-BI-E-Commerce-Data-Analysis-Project/blob/main/image_01.png?raw=true)
+![Shiping_Cost_Analysis](https://github.com/GhulamMujtaba-03/Olist-Ecommerce-Data-Analysis/blob/main/Shipping_Cost_Analysis.png?raw=true)
 ### KPIs
 - Total Reviews
 - Seller States
@@ -138,7 +133,7 @@
 
 ## Table Relationships Overview
 - The following model illustrates the relationships between customers, orders, products, sellers, payments, and reviews used throughout the dashboard.d
-![Sales Dashboard](https://github.com/GhulamMujtaba-03/Pandas-Power-BI-E-Commerce-Data-Analysis-Project/blob/main/image_01.png?raw=true)
+![Model_View](https://github.com/GhulamMujtaba-03/Olist-Ecommerce-Data-Analysis/blob/main/Model_View.png?raw=true)
 
 ### Business Insights
 - Customer satisfaction trends
